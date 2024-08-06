@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Rosario";
+    src: url("Rosario.eot");
+    src: url("Rosario.eot#iefix") format("embedded-opentype")
+         url("Rosario.woff") format("woff"),
+         url("Rosario.ttf") format("truetype"),
+         url("Rosario.svg#Rosario") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
